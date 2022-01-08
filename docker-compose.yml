@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  travelagentapi:
+    image: ${DOCKER_REGISTRY-}travelagentapi
+    build:
+      context: .
+      dockerfile: TravelAgentAPI/Dockerfile
+  rabbitmq:
+    image: "rabbitmq:3-management"
+  sqlserver:
+    image: "mcr.microsoft.com/mssql/server:2017-latest"   
