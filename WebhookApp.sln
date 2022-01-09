@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlineWeb", "AirlineWeb\AirlineWeb.csproj", "{3311DEE4-C68F-4B0C-8CFF-BDBAEFA998A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirlineWeb", "AirlineWeb\AirlineWeb.csproj", "{3311DEE4-C68F-4B0C-8CFF-BDBAEFA998A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirlineSendAgent", "AirlineSendAgent\AirlineSendAgent.csproj", "{A393BFA0-F44A-4224-91DB-FE1E693FE184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AirlineSendAgent", "AirlineSendAgent\AirlineSendAgent.csproj", "{A393BFA0-F44A-4224-91DB-FE1E693FE184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAgentAPI", "TravelAgentAPI\TravelAgentAPI.csproj", "{7715A2F8-F1CE-4938-83B7-191A5C25AA76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelAgentAPI", "TravelAgentAPI\TravelAgentAPI.csproj", "{7715A2F8-F1CE-4938-83B7-191A5C25AA76}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{DF7443C3-3F92-4A30-8ACB-118E4D00AF2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6AEA3D2E-EF7B-4A60-82D7-F440DA7FC10F}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

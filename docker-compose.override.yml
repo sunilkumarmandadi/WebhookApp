@@ -25,3 +25,12 @@ services:
       MSSQL_PID: "Express"
     ports:
       - "1433:1433"
+  portainer:
+    container_name: portainerAirline
+    restart: always
+    ports:
+      - "7070:8000"
+      - "6000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - portainer_data:/data   

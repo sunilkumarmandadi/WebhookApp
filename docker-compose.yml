@@ -10,3 +10,8 @@ services:
     image: "rabbitmq:3-management"
   sqlserver:
     image: "mcr.microsoft.com/mssql/server:2017-latest"   
+  portainer:
+    image: portainer/portainer-ce
+
+volumes:
+  portainer_data:

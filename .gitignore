@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AirlineSendAgent/bin/Debug/net5.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/AirlineSendAgent/bin/Debug/net5.0/ref
+/AirlineSendAgent/bin/Debug/net5.0
+/AirlineWeb/bin/Debug/net5.0/runtimes
+/bin/Debug
+/obj/Debug/docker-compose.dcproj.AssemblyReference.cache
+/obj/Debug/docker-compose.dcproj.FileListAbsolute.txt
+/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/obj/Debug/docker-compose.dcproj.CopyComplete
+/AirlineWeb/obj/AirlineWeb.csproj.EntityFrameworkCore.targets
