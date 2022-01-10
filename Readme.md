@@ -10,7 +10,7 @@
 ### This app listens the events that are published in RabbitMQ. ###
 ### After the event received, it will fetch all the subscribed API's from DB and do a callback with the event details ###
 
-##App Setup guide
+# App Setup guide #
 
  1. Set all three applications as startup projects
  2. Run https://localhost:5001/index.html 
