@@ -88,3 +88,6 @@ C:\SUNIL\Practise\WEBHOOK\WebhookApp\AirlineSendAgent\obj\Debug\net5.0\AirlineSe
 C:\SUNIL\Practise\WEBHOOK\WebhookApp\AirlineSendAgent\obj\Debug\net5.0\ref\AirlineSendAgent.dll
 C:\SUNIL\Practise\WEBHOOK\WebhookApp\AirlineSendAgent\obj\Debug\net5.0\AirlineSendAgent.pdb
 C:\SUNIL\Practise\WEBHOOK\WebhookApp\AirlineSendAgent\obj\Debug\net5.0\AirlineSendAgent.genruntimeconfig.cache
+C:\SUNIL\Practise\WEBHOOK\WebhookApp\AirlineSendAgent\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\SUNIL\Practise\WEBHOOK\WebhookApp\AirlineSendAgent\bin\Debug\net5.0\appsettings.Development.json
+C:\SUNIL\Practise\WEBHOOK\WebhookApp\AirlineSendAgent\bin\Debug\net5.0\appsettings.json
